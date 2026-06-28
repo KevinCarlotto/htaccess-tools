@@ -1,41 +1,42 @@
-## Project Name
+# HTACCESS Tools
 
-Modification of .htaccess file for wordpress
+Modification and optimization of `.htaccess` configuration for WordPress websites.
 
-## Table of Contents
+## Overview
 
-    Usage
-    Contribution
-    License
+This project provides useful `.htaccess` rules to improve:
+
+- Website performance
+- Security
+- URL structure
+- Server behavior optimization
+
+⚠️ Always make a backup of your original `.htaccess` file before applying changes.
 
 ## Usage
 
-Important Make a copy of the .htaccess file
+The `.htaccess` file is a server configuration file used by Apache.
 
-The .htaccess file, also known as HyperText Access, is a configuration file on your server.
+To apply optimizations:
 
-The .htaccess file indicates everything that the user who visits your website can or cannot do. 
-In addition, it configures the way the server behaves and how it 
-optimizes the loading of the pages of your site or blog.
-
-To optimize the .htaccess it is only necessary to upload all 
-the directives specified below to the file:
-
-Copy code and modify according to your need for change
+1. Locate your WordPress `.htaccess` file
+2. Create a backup
+3. Copy the provided rules into the file
+4. Save and test your website
 
 ## Contribution
 
-Used for educational purposes, contributions from the community are welcome. 
-Collaborators can contribute by reporting bugs, proposing improvements, and sending pull requests.
+Used for educational and practical purposes. Contributions are welcome:
 
-    Fork this repository.
-    Create a new branch: git checkout -b new-feature.
-    Make your changes and commit them: git commit -m 'Add new feature'.
-    Push your changes to the remote repository: git push origin new-feature.
-    Send a pull request.
+- Fork the repository
+- Create a new branch: `git checkout -b new-feature`
+- Commit changes: `git commit -m "Add improvement"`
+- Push: `git push origin new-feature`
+- Open a pull request
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for more details.
+MIT License
 
-© 2023 | KY C.O
+© 2026 Kevin Carlotto
+Founder @ ExoTechHub
